@@ -1,37 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Novacrust Payment Assessment
 
-## Getting Started
+This project is a front-end assessment for Novacrust. It demonstrates the implementation of custom UI components, responsive layouts, and form interactions using **Next.js**, **React**, **TailwindCSS**, and **Shadcn**.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Custom Select components with search, icons, and dynamic options.
+- Tabs with active state styling and full-width indicators.
+- Responsive layouts compatible with desktop and mobile screens.
+- Custom fonts: Instrument Sans, Outfit, and Clash Display.
+- Form validation for email input and disabled states for buttons.
+- Styled buttons and inputs matching the design specifications.
+- Placeholder and option styling with distinct fonts for selected items and dropdowns.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js**  
+- **React**  
+- **TailwindCSS**  
+- **ShadCn**  
+- **Lucide Icons / React Icons**  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# novacrust-assessment
